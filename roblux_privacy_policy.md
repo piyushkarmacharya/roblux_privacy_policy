@@ -101,18 +101,3 @@ We may update this Privacy Policy from time to time.
 Changes will be posted on this page with an updated effective date.
 
 ---
-
-## 10. Contact Us
-
-If you have questions about this Privacy Policy, contact us at:
-
-- **Email:** `your-email@example.com`
-- **Developer/Company Name:** `Your Name or Company`
-- **Country:** `Your Country`
-
----
-
-## 11. Google Play Compliance Note
-
-This policy is intended for publication on Google Play and should match your app's actual data practices in the Play Console Data Safety form.  
-If your data collection/sharing practices change, update this policy accordingly.
